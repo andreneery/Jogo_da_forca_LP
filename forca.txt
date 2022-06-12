@@ -1,0 +1,42 @@
+e , que pena! você errou
+s , false
+r , true
+t , false
+r , false
+e , false
+f , false
+h , false
+y , que pena! Você errou a letra
+r , parabéns! Você acertou a letra.
+a , parabéns! Você acertou a letra.
+e , que pena! Você errou a letra
+vc , que pena! Você errou a letra
+s , que pena! Você errou a letra
+w , que pena! Você errou a letra
+q , que pena! Você errou a letra
+a , parabéns! Você acertou a letra.
+r , que pena! Você errou a letra
+t , que pena! Você errou a letra
+y , que pena! Você errou a letra
+b , que pena! Você errou a letra
+d , que pena! Você errou a letra
+e , parabéns! Você acertou a letra.
+s , que pena! Você errou a letra
+r , que pena! Você errou a letra
+t , que pena! Você errou a letra
+y , que pena! Você errou a letra
+u , que pena! Você errou a letra
+y , que pena! Você errou a letra
+u , que pena! Você errou a letra
+a , parabéns! Você acertou a letra.
+r , parabéns! Você acertou a letra.
+t , que pena! Você errou a letra
+y , que pena! Você errou a letra
+r , que pena! Você errou a letra
+e , que pena! Você errou a letra
+s , que pena! Você errou a letra
+a , que pena! Você errou a letra
+a , parabéns! Você acertou a letra.
+e , que pena! Você errou a letra
+t , que pena! Você errou a letra
+t , que pena! Você errou a letra
