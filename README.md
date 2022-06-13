@@ -1,6 +1,6 @@
 # Jogo_da_forca_LP
 
-Trata-se de atividade proposta pelo professor de Linguagemd e programação da FATEC/PG, do qual deve ser desenvolvido um programa em Java que implemente o "Jogo da Forca" de forma recursiva, baseado nos seguintes requisitos:
+Trata-se de atividade proposta pelo professor de Linguagem de Programação da FATEC/PG, do qual deve ser desenvolvido um programa em Java que implemente o "Jogo da Forca" de forma recursiva, baseado nos seguintes requisitos:
 
 - deve ser sorteada uma palavra em uma lista de, ao menos, 10 palavras já pré-definidas no programa; elas deverão estar num armazenadas num vetor;
 - o programa deverá solicitar uma nova letra até o usuário acertar a palavra ou perder a partida;
